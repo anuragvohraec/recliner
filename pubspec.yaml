@@ -1,8 +1,8 @@
 name: recliner
 description: A couchdb implementation in dart
 version: 0.0.1
-author:
-homepage:
+author: Anurag Vohra<anuragvohraec@gmail.com>
+homepage: https://github.com/anuragvohraec/recliner.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
