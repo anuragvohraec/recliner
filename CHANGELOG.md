@@ -1,3 +1,8 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.2] - 21 Sep	2019
 
-* TODO: Describe initial release.
+* Updated Licence and added Logo and TM
+
+## [0.0.1] - 21 Aug 2019
+
+* Initial concept
+
